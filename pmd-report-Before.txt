@@ -1,0 +1,1 @@
+Warning	3	The variable 'ex' is declared but never used	c:\users\andreas\documents\visual studio 2013\projects\online reservation\online reservation\checkininfo.cs	223	30	Online reservation

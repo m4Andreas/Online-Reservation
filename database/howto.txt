@@ -1,0 +1,2 @@
+to arxeio ths vashs(hoteldatabase.mdf) prepei na vriskete sto path: C:\Users\(username)\Documents
+To arxeio ths vashs gia na trexei sto client machine isws xriastei kapoio SQL instance(Sql Compact Edition, SqlLite, SQL Server Express Edition etc) 

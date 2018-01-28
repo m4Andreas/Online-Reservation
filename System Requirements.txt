@@ -1,0 +1,3 @@
+-Windows XP, Pentium 2GHz, 4 GB RAM(or more)
+-.NET framework 4.0
+-SQL instance(Sql Compact Edition, SqlLite, SQL Server Express Edition etc) 

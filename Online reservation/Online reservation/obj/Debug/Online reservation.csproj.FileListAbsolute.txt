@@ -1,0 +1,26 @@
+C:\Users\Andreas\AppData\Local\Temporary Projects\Online reservation\bin\Debug\Online reservation.exe.config
+C:\Users\Andreas\AppData\Local\Temporary Projects\Online reservation\bin\Debug\Online reservation.exe
+C:\Users\Andreas\AppData\Local\Temporary Projects\Online reservation\bin\Debug\Online reservation.pdb
+C:\Users\Andreas\AppData\Local\Temporary Projects\Online reservation\obj\Debug\Online reservation.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\AppData\Local\Temporary Projects\Online reservation\obj\Debug\Online_reservation.Properties.Resources.resources
+C:\Users\Andreas\AppData\Local\Temporary Projects\Online reservation\obj\Debug\Online reservation.csproj.GenerateResource.Cache
+C:\Users\Andreas\AppData\Local\Temporary Projects\Online reservation\obj\Debug\Online reservation.exe
+C:\Users\Andreas\AppData\Local\Temporary Projects\Online reservation\obj\Debug\Online reservation.pdb
+C:\Users\Andreas\AppData\Local\Temporary Projects\Online reservation\obj\Debug\Online_reservation.Welcome.resources
+C:\Users\Andreas\AppData\Local\Temporary Projects\Online reservation\obj\Debug\Online_reservation.CancelRes.resources
+C:\Users\Andreas\Documents\Visual Studio 2013\Projects\Online reservation\Online reservation\bin\Debug\Online reservation.exe.config
+C:\Users\Andreas\Documents\Visual Studio 2013\Projects\Online reservation\Online reservation\obj\Debug\Online reservation.exe
+C:\Users\Andreas\Documents\Visual Studio 2013\Projects\Online reservation\Online reservation\obj\Debug\Online reservation.pdb
+C:\Users\Andreas\Documents\Visual Studio 2013\Projects\Online reservation\Online reservation\bin\Debug\Online reservation.exe
+C:\Users\Andreas\Documents\Visual Studio 2013\Projects\Online reservation\Online reservation\bin\Debug\Online reservation.pdb
+C:\Users\Andreas\Documents\Visual Studio 2013\Projects\Online reservation\Online reservation\obj\Debug\Online_reservation.CancelRes.resources
+C:\Users\Andreas\Documents\Visual Studio 2013\Projects\Online reservation\Online reservation\obj\Debug\Online_reservation.Welcome.resources
+C:\Users\Andreas\Documents\Visual Studio 2013\Projects\Online reservation\Online reservation\obj\Debug\Online_reservation.Properties.Resources.resources
+C:\Users\Andreas\Documents\Visual Studio 2013\Projects\Online reservation\Online reservation\obj\Debug\Online reservation.csproj.GenerateResource.Cache
+C:\Users\Andreas\Documents\Visual Studio 2013\Projects\Online reservation\Online reservation\obj\Debug\Online_reservation.Login.resources
+C:\Users\Andreas\Documents\Visual Studio 2013\Projects\Online reservation\Online reservation\obj\Debug\Online_reservation.NewRes.resources
+C:\Users\Andreas\Documents\Visual Studio 2013\Projects\Online reservation\Online reservation\obj\Debug\Online_reservation.employeeLogin.resources
+C:\Users\Andreas\Documents\Visual Studio 2013\Projects\Online reservation\Online reservation\obj\Debug\Online_reservation.ownerlogin.resources
+C:\Users\Andreas\Documents\Visual Studio 2013\Projects\Online reservation\Online reservation\obj\Debug\Online_reservation.RoomsManager.resources
+C:\Users\Andreas\Documents\Visual Studio 2013\Projects\Online reservation\Online reservation\obj\Debug\Online_reservation.ClientsInfo.resources
+C:\Users\Andreas\Documents\Visual Studio 2013\Projects\Online reservation\Online reservation\obj\Debug\Online_reservation.Checkininfo.resources
